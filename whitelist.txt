@@ -1,1 +1,2 @@
 @@|*.holafly.com^$important
+@@|*.discord.com^$important
